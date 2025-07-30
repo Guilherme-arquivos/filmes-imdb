@@ -9,3 +9,7 @@ Este projeto faz scrapping da lista dos 200 melhores filmes de acordo com o IMDB
 - Seaborn
 - Pandas
 - Playwright
+
+![Gráfico de Gêneros](pizza_genero.png)
+
+![Gráfico de Anos](barras_ano.png)

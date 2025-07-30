@@ -10,6 +10,8 @@ Este projeto faz scrapping da lista dos 200 melhores filmes de acordo com o IMDB
 - Pandas
 - Playwright
 
+# Gráfico de gêneros
 ![Gráfico de Gêneros](pizza_genero.png)
 
+# Gráfico de anos
 ![Gráfico de Anos](barras_ano.png)
